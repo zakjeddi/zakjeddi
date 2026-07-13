@@ -15,13 +15,13 @@
 
 ## &nbsp;&nbsp;Who I Am
 
-Independent **systems architect & full-stack builder.** By day I run **Bellovac'IA** `bientôt en ligne` — a webmarketing × AI agency in Beauvais (Oise). By night I build **Kyberon**, a peer-to-peer infrastructure engine in Rust, and the product suite on top of it.
+Independent **systems architect & full-stack builder.** By day I run **Bellovac'IA** `bientôt en ligne` — a webmarketing × AI agency operating across **Morocco & France.** By night I build **Kyberon**, a peer-to-peer infrastructure engine in Rust, and the product suite on top of it.
 
 I work the full vertical: **protocol design & formal verification at the bottom, polished product UI/UX at the top.** My signature is **correctness over hype** — model checking where it counts, every claim re-measured, always precise about what's *proven* versus what's still a *prototype*.
 
 ```ts
 const zakaria = {
-  agency:  "Founder @ Bellovac'IA — webmarketing × AI, Beauvais",
+  agency:  "Founder @ Bellovac'IA — webmarketing × AI, Morocco & France",
   builds:  "Kyberon — sovereign P2P infrastructure in Rust",
   stack:   ["Rust", "TypeScript", "React", "Next.js", "Node.js", "WASM"],
   crypto:  ["Kyber-768 (PQC)", "X25519", "Ed25519"],
@@ -40,11 +40,11 @@ const zakaria = {
 
 <table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top">
 
-Agency based in **Beauvais (Oise, Hauts-de-France).** We ship brand identity, landing pages and social content — grounded, local, no invented numbers. The whole thing runs on a hand-built design system: a 6-colour palette, a signature gradient, **53 ready-to-publish templates**, and a live studio (React / Vite / Tailwind / GSAP / Lenis / Spline).
+Digital agency operating across **Morocco & France.** We ship brand identity, landing pages and social content — grounded, honest, no invented numbers. The whole thing runs on a hand-built design system: a 6-colour palette, a signature gradient, **53 ready-to-publish templates**, and a live studio (React / Vite / Tailwind / GSAP / Lenis / Spline).
 
 &nbsp;
 
-**Bellovac'IA** &nbsp; `site bientôt en ligne` &nbsp;·&nbsp; *webmarketing × IA · Beauvais*
+**Bellovac'IA** &nbsp; `site bientôt en ligne` &nbsp;·&nbsp; *webmarketing × IA · Maroc & France*
 
 </td></tr></table>
 
@@ -188,7 +188,7 @@ Leptos / WASM front-end experiment.
 
 <br/><br/>
 
-<sub>📍 Beauvais &amp; Rabat &nbsp;·&nbsp; 🌐 bellovacia.fr <i>(bientôt)</i></sub>
+<sub>📍 Maroc &amp; France &nbsp;·&nbsp; 🌐 bellovacia.fr <i>(bientôt)</i></sub>
 
 <br/><br/>
 
