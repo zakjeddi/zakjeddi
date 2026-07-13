@@ -126,9 +126,10 @@ Rust · WASM · Leptos<br/>Axum · libp2p · SQLx
 
 **🔐 Crypto & Proofs**
 
-<img src="https://img.shields.io/badge/Kyber--768-6E56CF?style=flat-square&logo=letsencrypt&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Ed25519-3C3C3C?style=flat-square&logo=keycdn&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Kani-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Proptest-262626?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kyber--768-6E56CF?style=for-the-badge&logo=letsencrypt&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Ed25519-3C3C3C?style=for-the-badge&logo=keycdn&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Kani-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proptest-262626?style=for-the-badge&logo=rust&logoColor=white"/>
 
 </td>
 <td align="center" valign="top">
@@ -146,30 +147,26 @@ NestJS · Prisma · Postgres<br/>Docker · Prometheus · Grafana
 
 **🎨 Design**
 
-<img src="https://skillicons.dev/icons?i=figma&perline=3"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white"/>
-
-Figma · Framer · Webflow
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white"/>
 
 </td>
 <td align="center" valign="top">
 
 **🔗 Automation**
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-
-n8n · Make
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
 
 </td>
 <td align="center" valign="top">
 
 **✅ Verification**
 
-<img src="https://img.shields.io/badge/Model_Checking-000000?style=flat-square&logo=rust&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Fuzzing-262626?style=flat-square&logo=rust&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/cargo--audit-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Checking-000000?style=for-the-badge&logo=rust&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Fuzzing-262626?style=for-the-badge&logo=rust&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/cargo--audit-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 
 </td>
 </tr>
