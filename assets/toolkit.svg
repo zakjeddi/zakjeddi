@@ -1,111 +1,59 @@
 <svg width="1200" height="386" viewBox="0 0 1200 386" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Toolkit">
-  <defs>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FF1A8C"/><stop offset="0.5" stop-color="#A93AFF"/><stop offset="1" stop-color="#FF6B1A"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="386" rx="0" fill="#0F0F1F"/>
+  <rect width="1200" height="386" fill="#0F0F1F"/>
   <circle cx="46" cy="51" r="4" fill="#FF1A8C"/>
-  <text x="60" y="56" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">WEB & PRODUCT</text>
-  <g>
-    <rect x="40" y="60" width="79" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="79.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">React</text>
-  </g>
-  <g>
-    <rect x="131" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="179" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Next.js</text>
-  </g>
-  <g>
-    <rect x="239" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="287" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Node.js</text>
-  </g>
-  <g>
-    <rect x="347" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="408" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">TypeScript</text>
-  </g>
-  <g>
-    <rect x="481" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="542" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">JavaScript</text>
-  </g>
-  <g>
-    <rect x="615" y="60" width="70" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="650" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">HTML</text>
-  </g>
-  <g>
-    <rect x="697" y="60" width="62" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="728" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">CSS</text>
-  </g>
-  <g>
-    <rect x="771" y="60" width="105" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="823.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Tailwind</text>
-  </g>
+  <text x="60" y="56" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">WEB &amp; PRODUCT</text>
+  <rect x="40" y="60" width="79" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="79.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">React</text>
+  <rect x="131" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="179" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Next.js</text>
+  <rect x="239" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="287" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Node.js</text>
+  <rect x="347" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="408" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">TypeScript</text>
+  <rect x="481" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="542" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">JavaScript</text>
+  <rect x="615" y="60" width="70" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="650" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">HTML</text>
+  <rect x="697" y="60" width="62" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="728" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">CSS</text>
+  <rect x="771" y="60" width="105" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="823.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Tailwind</text>
   <circle cx="46" cy="137" r="4" fill="#A93AFF"/>
-  <text x="60" y="142" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">SYSTEMS & CORE</text>
-  <g>
-    <rect x="40" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="75" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Rust</text>
-  </g>
-  <g>
-    <rect x="122" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="157" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">WASM</text>
-  </g>
-  <g>
-    <rect x="204" y="146" width="79" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="243.5" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Linux</text>
-  </g>
-  <g>
-    <rect x="295" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="339" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Docker</text>
-  </g>
-  <g>
-    <rect x="395" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="439" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">libp2p</text>
-  </g>
+  <text x="60" y="142" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">SYSTEMS &amp; CORE</text>
+  <rect x="40" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="75" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Rust</text>
+  <rect x="122" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="157" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">WASM</text>
+  <rect x="204" y="146" width="79" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="243.5" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Linux</text>
+  <rect x="295" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="339" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Docker</text>
+  <rect x="395" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="439" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">libp2p</text>
   <circle cx="46" cy="223" r="4" fill="#FF6B1A"/>
-  <text x="60" y="228" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">BACKEND & DATA</text>
-  <g>
-    <rect x="40" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="84" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">NestJS</text>
-  </g>
-  <g>
-    <rect x="140" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="184" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Prisma</text>
-  </g>
-  <g>
-    <rect x="240" y="232" width="122" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="301" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">PostgreSQL</text>
-  </g>
-  <g>
-    <rect x="374" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="413.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Redis</text>
-  </g>
-  <g>
-    <rect x="465" y="232" width="96" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="513" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Grafana</text>
-  </g>
-  <g>
-    <rect x="573" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="612.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Nginx</text>
-  </g>
+  <text x="60" y="228" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">BACKEND &amp; DATA</text>
+  <rect x="40" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="84" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">NestJS</text>
+  <rect x="140" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="184" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Prisma</text>
+  <rect x="240" y="232" width="122" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="301" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">PostgreSQL</text>
+  <rect x="374" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="413.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Redis</text>
+  <rect x="465" y="232" width="96" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="513" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Grafana</text>
+  <rect x="573" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="612.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Nginx</text>
   <circle cx="46" cy="309" r="4" fill="#FFD11A"/>
-  <text x="60" y="314" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">DESIGN & AUTOMATION</text>
-  <g>
-    <rect x="40" y="318" width="79" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="79.5" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Figma</text>
-  </g>
-  <g>
-    <rect x="131" y="318" width="88" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="175" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Framer</text>
-  </g>
-  <g>
-    <rect x="231" y="318" width="96" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="279" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Webflow</text>
-  </g>
-  <g>
-    <rect x="339" y="318" width="62" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="370" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">n8n</text>
-  </g>
-  <g>
-    <rect x="413" y="318" width="70" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-    <text x="448" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Make</text>
-  </g>
+  <text x="60" y="314" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">DESIGN &amp; AUTOMATION</text>
+  <rect x="40" y="318" width="79" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="79.5" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Figma</text>
+  <rect x="131" y="318" width="88" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="175" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Framer</text>
+  <rect x="231" y="318" width="96" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="279" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Webflow</text>
+  <rect x="339" y="318" width="62" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="370" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">n8n</text>
+  <rect x="413" y="318" width="70" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="448" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Make</text>
+</svg>
