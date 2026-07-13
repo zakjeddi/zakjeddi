@@ -1,0 +1,27 @@
+<svg width="1200" height="324" viewBox="0 0 1200 324" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected Work">
+  <rect width="1200" height="324" fill="#0F0F1F"/>
+  <rect x="30" y="30" width="558" height="120" rx="16" fill="#151019" stroke="#26202F" stroke-width="1"/>
+  <rect x="30" y="48" width="4" height="84" rx="2" fill="#FF1A8C"/>
+  <text x="58" y="72" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#F5F5F7">Zaya</text>
+  <rect x="428" y="52" width="132" height="24" rx="12" fill="none" stroke="#FF1A8C" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="494" y="68" text-anchor="middle" font-family="'Inter',monospace" font-size="12" font-weight="600" fill="#FF1A8C">v1 · production</text>
+  <text x="58" y="112" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="400" fill="#A69FB5">Live streaming &amp; creator platform. Migrating to Rust / WASM.</text>
+  <rect x="612" y="30" width="558" height="120" rx="16" fill="#151019" stroke="#26202F" stroke-width="1"/>
+  <rect x="612" y="48" width="4" height="84" rx="2" fill="#A93AFF"/>
+  <text x="640" y="72" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#F5F5F7">Illimeet</text>
+  <rect x="1089" y="52" width="53" height="24" rx="12" fill="none" stroke="#A93AFF" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="1115.5" y="68" text-anchor="middle" font-family="'Inter',monospace" font-size="12" font-weight="600" fill="#A93AFF">beta</text>
+  <text x="640" y="112" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="400" fill="#A69FB5">Encrypted P2P video conferencing over WebRTC.</text>
+  <rect x="30" y="174" width="558" height="120" rx="16" fill="#151019" stroke="#26202F" stroke-width="1"/>
+  <rect x="30" y="192" width="4" height="84" rx="2" fill="#FF6B1A"/>
+  <text x="58" y="216" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#F5F5F7">3to1</text>
+  <rect x="435" y="196" width="125" height="24" rx="12" fill="none" stroke="#FF6B1A" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="497.5" y="212" text-anchor="middle" font-family="'Inter',monospace" font-size="12" font-weight="600" fill="#FF6B1A">in development</text>
+  <text x="58" y="256" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="400" fill="#A69FB5">Product initiative within the Kyberon ecosystem.</text>
+  <rect x="612" y="174" width="558" height="120" rx="16" fill="#151019" stroke="#26202F" stroke-width="1"/>
+  <rect x="612" y="192" width="4" height="84" rx="2" fill="#FFD11A"/>
+  <text x="640" y="216" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#F5F5F7">Quilyt</text>
+  <rect x="1032" y="196" width="110" height="24" rx="12" fill="none" stroke="#FFD11A" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="1087" y="212" text-anchor="middle" font-family="'Inter',monospace" font-size="12" font-weight="600" fill="#FFD11A">r&amp;d · frozen</text>
+  <text x="640" y="256" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="400" fill="#A69FB5">Leptos / WASM front-end experiment.</text>
+</svg>
