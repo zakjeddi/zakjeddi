@@ -1,11 +1,11 @@
 <!-- ================================================================= -->
-<!--                   Z A K A R ' I A  ·  PROFILE                     -->
-<!--        custom SVG assets live in /assets · designed by hand        -->
+<!-- Z A K A R ' I A  ·  PROFILE                                        -->
+<!-- custom SVG assets live in /assets · palette = Bellovac'IA identity  -->
 <!-- ================================================================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/hero.svg" width="100%" alt="Zakar'IA — Systems Architect · Rust · Post-Quantum P2P"/>
+<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/hero.svg" width="100%" alt="Zakar'IA — Systems Architect · Full-stack · Post-Quantum P2P"/>
 
 </div>
 
@@ -13,19 +13,48 @@
 
 ## &nbsp;&nbsp;Who I Am
 
-Independent **systems architect** building **Kyberon** — a peer-to-peer infrastructure engine in Rust — and the product suite on top of it. I work the full vertical: **protocol design & formal verification at the bottom, polished product UI/UX at the top.**
+Independent **systems architect & full-stack builder.** By day I run **[Bellovac'IA](https://bellovacia.fr)** — a webmarketing × AI agency in Beauvais (Oise). By night I build **Kyberon**, a peer-to-peer infrastructure engine in Rust, and the product suite on top of it.
 
-My signature is **correctness over hype.** I use model checking where it counts, re-measure every claim, and stay precise about what's *proven* versus what's still a *prototype*.
+I work the full vertical: **protocol design & formal verification at the bottom, polished product UI/UX at the top.** My signature is **correctness over hype** — model checking where it counts, every claim re-measured, always precise about what's *proven* versus what's still a *prototype*.
 
 ```ts
 const zakaria = {
-  role:     "Founder & Systems Architect @ Kyberon",
-  stack:    ["Rust", "WASM", "TypeScript", "libp2p"],
-  crypto:   ["Kyber-768 (PQC)", "X25519", "Ed25519"],
-  proves:   "invariants with Kani model checking",
-  believes: "don't trust the server — prove the code",
+  agency:  "Founder @ Bellovac'IA — webmarketing × AI, Beauvais",
+  builds:  "Kyberon — sovereign P2P infrastructure in Rust",
+  stack:   ["Rust", "TypeScript", "React", "Next.js", "Node.js", "WASM"],
+  crypto:  ["Kyber-768 (PQC)", "X25519", "Ed25519"],
+  proves:  "invariants with Kani model checking",
+  believes:"don't trust the server — prove the code",
 };
 ```
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+## &nbsp;&nbsp;Bellovac'IA &nbsp;·&nbsp; Agence webmarketing × IA
+
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top">
+
+Agency based in **Beauvais (Oise, Hauts-de-France).** We ship brand identity, landing pages and social content — grounded, local, no invented numbers. The whole thing runs on a hand-built design system: a 6-colour palette, a signature gradient, **53 ready-to-publish templates**, and a live studio (React / Vite / Tailwind / GSAP / Lenis / Spline).
+
+&nbsp;
+
+**→ [bellovacia.fr](https://bellovacia.fr)** &nbsp;·&nbsp; *webmarketing × IA · Beauvais*
+
+</td></tr></table>
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-0F0F1F?style=for-the-badge&logo=figma&logoColor=FF1A8C)
+![Framer](https://img.shields.io/badge/Framer-0F0F1F?style=for-the-badge&logo=framer&logoColor=A93AFF)
+![Webflow](https://img.shields.io/badge/Webflow-0F0F1F?style=for-the-badge&logo=webflow&logoColor=FF6B1A)
+![n8n](https://img.shields.io/badge/n8n-0F0F1F?style=for-the-badge&logo=n8n&logoColor=FFD11A)
+![Make](https://img.shields.io/badge/Make-0F0F1F?style=for-the-badge&logo=make&logoColor=A93AFF)
+
+</div>
 
 <br/>
 
@@ -107,41 +136,33 @@ Leptos / WASM front-end experiment.
 <div align="center">
 <br/>
 
-**Systems & Core**  
-<img src="https://skillicons.dev/icons?i=rust,wasm,ts,cpp,linux,docker&theme=dark" height="44"/>
+**Web & Product**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,html,css,tailwind&theme=dark" height="44"/>
 
 <br/>
 
-**Backend & Data**  
+**Systems & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=rust,wasm,linux,docker&theme=dark" height="44"/>
+
+<br/>
+
+**Backend & Data**
+<br/>
 <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,redis,grafana,nginx&theme=dark" height="44"/>
 
 <br/>
 
-**Design & Automation**  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-
-<br/><br/>
-</div>
-
-<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/divider.svg" width="100%" alt=""/>
+**Design & Automation**
+<br/>
+![Figma](https://img.shields.io/badge/Figma-0F0F1F?style=for-the-badge&logo=figma&logoColor=FF1A8C)
+![Framer](https://img.shields.io/badge/Framer-0F0F1F?style=for-the-badge&logo=framer&logoColor=A93AFF)
+![Webflow](https://img.shields.io/badge/Webflow-0F0F1F?style=for-the-badge&logo=webflow&logoColor=FF6B1A)
+![n8n](https://img.shields.io/badge/n8n-0F0F1F?style=for-the-badge&logo=n8n&logoColor=FFD11A)
+![Make](https://img.shields.io/badge/Make-0F0F1F?style=for-the-badge&logo=make&logoColor=A93AFF)
 
 <br/>
-
-## &nbsp;&nbsp;Signal
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zakjeddi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars&title_color=22D3EE&icon_color=8B5CF6&text_color=94A3B8&bg_color=0A0A0F" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakjeddi&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&title_color=22D3EE&text_color=94A3B8&bg_color=0A0A0F" alt="langs"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakjeddi&bg_color=0A0A0F&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20rhythm" width="98%" alt="activity"/>
-
 </div>
 
 <br/>
@@ -150,6 +171,7 @@ Leptos / WASM front-end experiment.
 
 <div align="center">
 <br/>
-<sub><samp>Rabat, Morocco &nbsp;·&nbsp; kyberon.io &nbsp;·&nbsp; don't trust the server — prove the code</samp></sub>
+<sub><b>Zakar'IA</b> &nbsp;·&nbsp; Beauvais &amp; Rabat &nbsp;·&nbsp; <a href="https://bellovacia.fr">bellovacia.fr</a></sub>
 <br/><br/>
+<sub><i>Honest by design — every number here can be reproduced.</i></sub>
 </div>
