@@ -1,6 +1,7 @@
 <!-- ================================================================= -->
 <!-- Z A K A R ' I A  ·  PROFILE                                        -->
-<!-- custom SVG assets live in /assets · palette = Bellovac'IA identity  -->
+<!-- all visuals are hand-crafted SVG in /assets · one palette          -->
+<!-- Bellovac'IA: magenta #FF1A8C · violet #A93AFF · orange #FF6B1A     -->
 <!-- ================================================================= -->
 
 <div align="center">
@@ -92,40 +93,11 @@ A Rust core engine (**~20 crates**) exploring how much of the centralized cloud 
 
 ## &nbsp;&nbsp;Selected Work
 
-<table border="0" cellspacing="0" cellpadding="14">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Zaya** &nbsp; `v1 · production`
-<br/>
-Live streaming & creator platform. Migrating to Rust/WASM.
+<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/work.svg" width="100%" alt="Selected work: Zaya, Illimeet, 3to1, Quilyt"/>
 
-</td>
-<td width="50%" valign="top">
-
-**Illimeet** &nbsp; `beta`
-<br/>
-Encrypted P2P video conferencing over WebRTC.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**3to1** &nbsp; `in development`
-<br/>
-Product initiative within the Kyberon ecosystem.
-
-</td>
-<td width="50%" valign="top">
-
-**Quilyt** &nbsp; `r&d · frozen`
-<br/>
-Leptos / WASM front-end experiment.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -136,35 +108,9 @@ Leptos / WASM front-end experiment.
 ## &nbsp;&nbsp;Toolkit
 
 <div align="center">
-<br/>
 
-**Web & Product**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,html,css,tailwind&theme=dark" height="44"/>
+<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/toolkit.svg" width="100%" alt="Toolkit — Web & Product, Systems & Core, Backend & Data, Design & Automation"/>
 
-<br/>
-
-**Systems & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=rust,wasm,linux,docker&theme=dark" height="44"/>
-
-<br/>
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,redis,grafana,nginx&theme=dark" height="44"/>
-
-<br/>
-
-**Design & Automation**
-<br/>
-![Figma](https://img.shields.io/badge/Figma-0F0F1F?style=for-the-badge&logo=figma&logoColor=FF1A8C)
-![Framer](https://img.shields.io/badge/Framer-0F0F1F?style=for-the-badge&logo=framer&logoColor=A93AFF)
-![Webflow](https://img.shields.io/badge/Webflow-0F0F1F?style=for-the-badge&logo=webflow&logoColor=FF6B1A)
-![n8n](https://img.shields.io/badge/n8n-0F0F1F?style=for-the-badge&logo=n8n&logoColor=FFD11A)
-![Make](https://img.shields.io/badge/Make-0F0F1F?style=for-the-badge&logo=make&logoColor=A93AFF)
-
-<br/>
 </div>
 
 <br/>
