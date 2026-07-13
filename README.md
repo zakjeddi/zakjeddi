@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/hero.svg" width="100%" alt="Zakar'IA — Systems Architect · Full-stack · Post-Quantum P2P"/>
+<a href="https://my.spline.design/liquidchrome-Z79DpHOSuN4M8YGMGSkvNt8r/"><img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/hero.svg" width="100%" alt="Zakar'IA — Systems Architect · Full-stack · Post-Quantum P2P"/></a>
+
+<sub><i>Hero inspired by the live Bellovac'IA Spline scene &nbsp;·&nbsp; <a href="https://my.spline.design/liquidchrome-Z79DpHOSuN4M8YGMGSkvNt8r/">▶ see the real animation</a></i></sub>
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## &nbsp;&nbsp;Who I Am
 
-Independent **systems architect & full-stack builder.** By day I run **[Bellovac'IA](https://bellovacia.fr)** — a webmarketing × AI agency in Beauvais (Oise). By night I build **Kyberon**, a peer-to-peer infrastructure engine in Rust, and the product suite on top of it.
+Independent **systems architect & full-stack builder.** By day I run **Bellovac'IA** `bientôt en ligne` — a webmarketing × AI agency in Beauvais (Oise). By night I build **Kyberon**, a peer-to-peer infrastructure engine in Rust, and the product suite on top of it.
 
 I work the full vertical: **protocol design & formal verification at the bottom, polished product UI/UX at the top.** My signature is **correctness over hype** — model checking where it counts, every claim re-measured, always precise about what's *proven* versus what's still a *prototype*.
 
@@ -42,7 +44,7 @@ Agency based in **Beauvais (Oise, Hauts-de-France).** We ship brand identity, la
 
 &nbsp;
 
-**→ [bellovacia.fr](https://bellovacia.fr)** &nbsp;·&nbsp; *webmarketing × IA · Beauvais*
+**Bellovac'IA** &nbsp; `site bientôt en ligne` &nbsp;·&nbsp; *webmarketing × IA · Beauvais*
 
 </td></tr></table>
 
@@ -167,11 +169,33 @@ Leptos / WASM front-end experiment.
 
 <br/>
 
+<!-- ============================== FOOTER ============================== -->
+
 <img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 <br/>
-<sub><b>Zakar'IA</b> &nbsp;·&nbsp; Beauvais &amp; Rabat &nbsp;·&nbsp; <a href="https://bellovacia.fr">bellovacia.fr</a></sub>
+
+### Zakar'IA
+
+<sub>Systems Architect · Full-stack · Founder of Bellovac'IA</sub>
+
 <br/><br/>
+
+<a href="mailto:zakaria@bellovacia.fr"><img src="https://img.shields.io/badge/Email-0F0F1F?style=for-the-badge&logo=gmail&logoColor=FF1A8C" alt="Email"/></a>
+<a href="https://github.com/zakjeddi"><img src="https://img.shields.io/badge/GitHub-0F0F1F?style=for-the-badge&logo=github&logoColor=A93AFF" alt="GitHub"/></a>
+<a href="https://my.spline.design/liquidchrome-Z79DpHOSuN4M8YGMGSkvNt8r/"><img src="https://img.shields.io/badge/Bellovac'IA-bient%C3%B4t-0F0F1F?style=for-the-badge&logo=vercel&logoColor=FF6B1A" alt="Bellovacia"/></a>
+
+<br/><br/>
+
+<sub>📍 Beauvais &amp; Rabat &nbsp;·&nbsp; 🌐 bellovacia.fr <i>(bientôt)</i></sub>
+
+<br/><br/>
+
 <sub><i>Honest by design — every number here can be reproduced.</i></sub>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/zakjeddi/zakjeddi/main/assets/divider.svg" width="60%" alt=""/>
+
 </div>
