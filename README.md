@@ -14,19 +14,15 @@
 <a href="#"><img src="https://img.shields.io/badge/%F0%9F%93%8D_Rabat%2C_Morocco-0F0C29?style=for-the-badge&labelColor=22D3EE"/></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=zakjeddi&label=Profile+views&color=8B5CF6&style=for-the-badge"/></a>
 
+<br/><br/>
+
+<samp>since 2021 · shipping sovereign infrastructure</samp>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<div align="center">
-
-### ` ` ` since 2021 · shipping sovereign infrastructure ` ` `
-
-</div>
-
 ## &nbsp; 🧠 &nbsp; Who I Am
-
-<img align="right" width="230" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/patterns/blue-purple-shape.svg" alt="" style="opacity:0"/>
 
 Independent **systems architect** building **Kyberon** — a peer-to-peer infrastructure engine in Rust — and the product suite on top of it. I work the full vertical: **protocol design & formal verification at the bottom**, **polished product UI/UX at the top**.
 
