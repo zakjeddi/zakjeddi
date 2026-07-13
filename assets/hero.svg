@@ -1,80 +1,86 @@
-<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Zakar'IA — Bellovac'IA liquid chrome hero">
-  <defs>
-    <radialGradient id="magenta" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FF1A8C"/><stop offset="0.7" stop-color="#FF1A8C" stop-opacity="0"/></radialGradient>
-    <radialGradient id="violet" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#A93AFF"/><stop offset="0.7" stop-color="#A93AFF" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orange" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FF6B1A"/><stop offset="0.7" stop-color="#FF6B1A" stop-opacity="0"/></radialGradient>
-    <radialGradient id="vignette" cx="25%" cy="50%" r="75%"><stop offset="0" stop-color="#0F0F1F" stop-opacity="0.82"/><stop offset="0.4" stop-color="#0F0F1F" stop-opacity="0.5"/><stop offset="0.75" stop-color="#0F0F1F" stop-opacity="0"/></radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF1A8C"/><stop offset="0.5" stop-color="#A93AFF"/><stop offset="1" stop-color="#FF6B1A"/></linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-width="1"/></pattern>
-    <filter id="blur1" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
-    <filter id="blur2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="26"/></filter>
-    <linearGradient id="chromeBase" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFE59E"/>
-      <stop offset="0.25" stop-color="#FF6B1A"/>
-      <stop offset="0.5" stop-color="#FF1A8C"/>
-      <stop offset="0.75" stop-color="#A93AFF"/>
-      <stop offset="1" stop-color="#5B2BD6"/>
-    </linearGradient>
-    <radialGradient id="chromeShade" cx="50%" cy="50%" r="50%">
-      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0A0410" stop-opacity="0.6"/>
-    </radialGradient>
-    <radialGradient id="spec" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="haloG" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#FF1A8C" stop-opacity="0.5"/>
-      <stop offset="0.5" stop-color="#A93AFF" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#A93AFF" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="sphereClip"><circle cx="0" cy="0" r="130"/></clipPath>
-    <filter id="liquid" x="-30%" y="-30%" width="160%" height="160%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.008 0.012" numOctaves="2" seed="7" result="noise">
-        <animate attributeName="baseFrequency" dur="18s" values="0.008 0.012;0.014 0.008;0.008 0.012" repeatCount="indefinite"/>
-      </feTurbulence>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="26" xChannelSelector="R" yChannelSelector="G"/>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-label="Zakar'IA — Systems Architect · Full-stack · Post-Quantum P2P">
+<defs>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#FF1A8C"/>
+<stop offset="50%" stop-color="#A93AFF"/>
+<stop offset="100%" stop-color="#FF6B1A"/>
 
-  <rect width="1200" height="380" fill="#0F0F1F"/>
-
-  <g>
-    <ellipse cx="160" cy="40" rx="420" ry="360" fill="url(#magenta)" opacity="0.30" filter="url(#blur1)"><animateTransform attributeName="transform" type="translate" values="0 0; 34 20; 0 0" dur="16s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="1080" cy="70" rx="380" ry="320" fill="url(#violet)" opacity="0.24" filter="url(#blur1)"><animateTransform attributeName="transform" type="translate" values="0 0; -30 26; 0 0" dur="21s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="420" cy="360" rx="360" ry="300" fill="url(#orange)" opacity="0.18" filter="url(#blur2)"><animateTransform attributeName="transform" type="translate" values="0 0; 22 -22; 0 0" dur="13s" repeatCount="indefinite"/></ellipse>
-  </g>
-
-  <g transform="translate(965,185)">
-    <circle r="175" fill="url(#haloG)" filter="url(#blur2)"><animate attributeName="r" values="165;185;165" dur="7s" repeatCount="indefinite"/></circle>
-    <g clip-path="url(#sphereClip)">
-      <g filter="url(#liquid)">
-        <g>
-          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
-          <rect x="-220" y="-220" width="440" height="440" fill="url(#chromeBase)"/>
-          <ellipse cx="-40" cy="-30" rx="120" ry="90" fill="#FF1A8C" opacity="0.55"/>
-          <ellipse cx="60" cy="50" rx="110" ry="80" fill="#5B2BD6" opacity="0.5"/>
-        </g>
-      </g>
-      <circle cx="0" cy="0" r="130" fill="url(#chromeShade)"/>
-      <ellipse rx="46" ry="34" fill="url(#spec)">
-        <animateTransform attributeName="transform" type="translate" values="-44 -50; -20 -60; -50 -40; -44 -50" dur="9s" repeatCount="indefinite"/>
-      </ellipse>
-      <circle r="8" fill="#ffffff" opacity="0.9">
-        <animateTransform attributeName="transform" type="translate" values="-64 -60; -40 -72; -64 -60" dur="9s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-    <circle r="130" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.5"/>
-    <circle r="128" fill="none" stroke="#FF1A8C" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="160 250"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <rect width="1200" height="380" fill="url(#grid)" opacity="0.05"/>
-  <rect width="1200" height="380" fill="url(#vignette)"/>
-  <rect width="1200" height="380" fill="#0F0F1F" opacity="0.10"/>
-
-  <text x="80" y="92" font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.5" fill="#C9C4D6">&#167; AGENCE WEB &#215; IA &#183; MAROC &amp; FRANCE</text>
-  <text x="78" y="182" font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-2" fill="#F5F5F7">Zakar<tspan fill="#FFD11A">&#39;</tspan>IA</text>
-  <rect x="80" y="202" width="0" height="6" rx="3" fill="url(#accent)"><animate attributeName="width" from="0" to="414" dur="1.1s" begin="0.3s" fill="freeze"/></rect>
-  <text x="82" y="244" font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="0.5" fill="#EDEBF5">Systems Architect &#183; Full-stack &#183; Post-Quantum P2P</text>
-  <text x="82" y="286" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#A69FB5">Founder of <tspan fill="#FF1A8C" font-weight="700">Bellovac&#39;IA</tspan> &#183; don&#39;t trust the server &#8212; prove the code</text>
+</linearGradient>
+<linearGradient id="brandSweep" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#FF1A8C"/>
+<stop offset="45%" stop-color="#A93AFF"/>
+<stop offset="100%" stop-color="#FF6B1A"/>
+</linearGradient>
+<radialGradient id="bg" cx="30%" cy="20%" r="120%">
+<stop offset="0%" stop-color="#16162B"/>
+<stop offset="55%" stop-color="#0F0F1F"/>
+<stop offset="100%" stop-color="#09091A"/>
+</radialGradient>
+<radialGradient id="blobA" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FF1A8C" stop-opacity="0.55"/><stop offset="100%" stop-color="#FF1A8C" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobB" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#A93AFF" stop-opacity="0.5"/><stop offset="100%" stop-color="#A93AFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobC" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FF6B1A" stop-opacity="0.4"/><stop offset="100%" stop-color="#FF6B1A" stop-opacity="0"/></radialGradient>
+<linearGradient id="ring1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FF1A8C"/><stop offset="100%" stop-color="#A93AFF"/></linearGradient>
+<linearGradient id="ring2" x1="1" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#A93AFF"/><stop offset="100%" stop-color="#FF6B1A"/></linearGradient>
+<linearGradient id="ring3" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="#FFD11A"/><stop offset="100%" stop-color="#FF1A8C"/></linearGradient>
+<radialGradient id="core" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="20%" stop-color="#FFD11A"/><stop offset="55%" stop-color="#FF1A8C"/><stop offset="100%" stop-color="#A93AFF" stop-opacity="0"/></radialGradient>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="26"/></filter>
+<filter id="softS" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="400" rx="18" fill="url(#bg)"/>
+<g filter="url(#soft)">
+<circle cx="250" cy="120" r="180" fill="url(#blobA)"><animate attributeName="cy" values="120;150;120" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="90" r="200" fill="url(#blobB)"><animate attributeName="cx" values="980;940;980" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="620" cy="360" r="170" fill="url(#blobC)"><animate attributeName="cy" values="360;330;360" dur="10s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1">
+<line x1="60" y1="0" x2="60" y2="400"/>
+<line x1="120" y1="0" x2="120" y2="400"/>
+<line x1="180" y1="0" x2="180" y2="400"/>
+<line x1="240" y1="0" x2="240" y2="400"/>
+<line x1="300" y1="0" x2="300" y2="400"/>
+<line x1="360" y1="0" x2="360" y2="400"/>
+<line x1="420" y1="0" x2="420" y2="400"/>
+<line x1="480" y1="0" x2="480" y2="400"/>
+<line x1="540" y1="0" x2="540" y2="400"/>
+<line x1="600" y1="0" x2="600" y2="400"/>
+<line x1="660" y1="0" x2="660" y2="400"/>
+<line x1="720" y1="0" x2="720" y2="400"/>
+<line x1="780" y1="0" x2="780" y2="400"/>
+<line x1="840" y1="0" x2="840" y2="400"/>
+<line x1="900" y1="0" x2="900" y2="400"/>
+<line x1="960" y1="0" x2="960" y2="400"/>
+<line x1="1020" y1="0" x2="1020" y2="400"/>
+<line x1="1080" y1="0" x2="1080" y2="400"/>
+<line x1="1140" y1="0" x2="1140" y2="400"/>
+<line x1="0" y1="50" x2="1200" y2="50"/>
+<line x1="0" y1="100" x2="1200" y2="100"/>
+<line x1="0" y1="150" x2="1200" y2="150"/>
+<line x1="0" y1="200" x2="1200" y2="200"/>
+<line x1="0" y1="250" x2="1200" y2="250"/>
+<line x1="0" y1="300" x2="1200" y2="300"/>
+<line x1="0" y1="350" x2="1200" y2="350"/>
+</g>
+<rect width="720" height="400" rx="18" fill="#0F0F1F" fill-opacity="0.35"/>
+<g transform="translate(940 200)">
+<circle r="150" fill="url(#core)" opacity="0.25" filter="url(#soft)"><animate attributeName="opacity" values="0.18;0.32;0.18" dur="6s" repeatCount="indefinite"/></circle>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/>
+<ellipse rx="150" ry="150" fill="none" stroke="url(#ring1)" stroke-width="3" stroke-opacity="0.9" stroke-dasharray="6 14"/>
+</g>
+<g transform="rotate(28)"><g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="34s" repeatCount="indefinite"/>
+<ellipse rx="120" ry="120" fill="none" stroke="url(#ring2)" stroke-width="4" stroke-opacity="0.85"/>
+<circle cx="120" cy="0" r="7" fill="#FF6B1A"/>
+</g></g>
+<g transform="rotate(-18)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+<ellipse rx="88" ry="88" fill="none" stroke="url(#ring3)" stroke-width="3" stroke-opacity="0.9" stroke-dasharray="3 10"/>
+<circle cx="0" cy="-88" r="6" fill="#FFD11A"/>
+</g></g>
+<circle r="46" fill="url(#core)" filter="url(#softS)"><animate attributeName="r" values="44;50;44" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle r="20" fill="#FFFFFF" opacity="0.95"/>
+</g>
+<style>.hName{font-family:'Space Grotesk','Segoe UI',system-ui,sans-serif;font-weight:700;} .hMono{font-family:'SFMono-Regular',ui-monospace,Menlo,monospace;} .hBody{font-family:'Segoe UI',system-ui,sans-serif;}</style>
+<text x="64" y="118" class="hMono" font-size="15" letter-spacing="4" fill="#A93AFF">§ AGENCE WEB × IA · MAROC &amp; FRANCE</text>
+<text x="60" y="205" class="hName" font-size="92" fill="url(#brandSweep)">Zakar'IA</text>
+<rect x="64" y="222" width="0" height="6" rx="3" fill="url(#brandSweep)"><animate attributeName="width" values="0;360;360" keyTimes="0;0.5;1" dur="2.4s" fill="freeze"/></rect>
+<text x="64" y="272" class="hName" font-size="27" fill="#EDEDF5" font-weight="600">Systems Architect · Full-stack · Post-Quantum P2P</text>
+<text x="64" y="308" class="hBody" font-size="16" fill="#9A9AB5">Founder of <tspan fill="#FF1A8C" font-weight="700">Bellovac'IA</tspan> · don't trust the server — prove the code</text>
 </svg>
