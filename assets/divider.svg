@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="presentation">
-  <defs>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF1A8C" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#FF1A8C"/>
-      <stop offset="50%" stop-color="#A93AFF"/>
-      <stop offset="75%" stop-color="#FF6B1A"/>
-      <stop offset="100%" stop-color="#FF6B1A" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="g" x="-50%" y="-400%" width="200%" height="900%">
-      <feGaussianBlur stdDeviation="1.4"/>
-    </filter>
-  </defs>
-  <rect x="0" y="11" width="1200" height="2" fill="url(#line)" filter="url(#g)"/>
-  <circle cx="600" cy="12" r="4" fill="#FFD11A">
-    <animate attributeName="r" values="3;5.5;3" dur="2.6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12" role="img" aria-label="divider">
+<defs>
+<linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF1A8C"/><stop offset="50%" stop-color="#A93AFF"/><stop offset="100%" stop-color="#FF6B1A"/></linearGradient>
+<linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0"/><stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/><animateTransform attributeName="gradientTransform" type="translate" dur="3.5s" values="-1 0;1 0" repeatCount="indefinite"/></linearGradient>
+<clipPath id="wipe"><rect x="0" y="0" width="0" height="12"><animate attributeName="width" dur="1s" values="0;1200" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect></clipPath>
+</defs>
+<g clip-path="url(#wipe)">
+<rect x="0" y="4" width="1200" height="4" rx="2" fill="url(#dg)"/>
+<rect x="0" y="4" width="1200" height="4" rx="2" fill="url(#shimmer)"/>
+</g>
 </svg>
