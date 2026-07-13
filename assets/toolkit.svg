@@ -1,59 +1,174 @@
-<svg width="1200" height="386" viewBox="0 0 1200 386" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Toolkit">
-  <rect width="1200" height="386" fill="#0F0F1F"/>
-  <circle cx="46" cy="51" r="4" fill="#FF1A8C"/>
-  <text x="60" y="56" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">WEB &amp; PRODUCT</text>
-  <rect x="40" y="60" width="79" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="79.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">React</text>
-  <rect x="131" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="179" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Next.js</text>
-  <rect x="239" y="60" width="96" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="287" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Node.js</text>
-  <rect x="347" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="408" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">TypeScript</text>
-  <rect x="481" y="60" width="122" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="542" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">JavaScript</text>
-  <rect x="615" y="60" width="70" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="650" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">HTML</text>
-  <rect x="697" y="60" width="62" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="728" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">CSS</text>
-  <rect x="771" y="60" width="105" height="34" rx="17" fill="#17131F" stroke="#FF1A8C" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="823.5" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Tailwind</text>
-  <circle cx="46" cy="137" r="4" fill="#A93AFF"/>
-  <text x="60" y="142" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">SYSTEMS &amp; CORE</text>
-  <rect x="40" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="75" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Rust</text>
-  <rect x="122" y="146" width="70" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="157" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">WASM</text>
-  <rect x="204" y="146" width="79" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="243.5" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Linux</text>
-  <rect x="295" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="339" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Docker</text>
-  <rect x="395" y="146" width="88" height="34" rx="17" fill="#17131F" stroke="#A93AFF" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="439" y="168" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">libp2p</text>
-  <circle cx="46" cy="223" r="4" fill="#FF6B1A"/>
-  <text x="60" y="228" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">BACKEND &amp; DATA</text>
-  <rect x="40" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="84" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">NestJS</text>
-  <rect x="140" y="232" width="88" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="184" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Prisma</text>
-  <rect x="240" y="232" width="122" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="301" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">PostgreSQL</text>
-  <rect x="374" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="413.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Redis</text>
-  <rect x="465" y="232" width="96" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="513" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Grafana</text>
-  <rect x="573" y="232" width="79" height="34" rx="17" fill="#17131F" stroke="#FF6B1A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="612.5" y="254" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Nginx</text>
-  <circle cx="46" cy="309" r="4" fill="#FFD11A"/>
-  <text x="60" y="314" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#8E88A0">DESIGN &amp; AUTOMATION</text>
-  <rect x="40" y="318" width="79" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="79.5" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Figma</text>
-  <rect x="131" y="318" width="88" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="175" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Framer</text>
-  <rect x="231" y="318" width="96" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="279" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Webflow</text>
-  <rect x="339" y="318" width="62" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="370" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">n8n</text>
-  <rect x="413" y="318" width="70" height="34" rx="17" fill="#17131F" stroke="#FFD11A" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="448" y="340" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#E8E5F0">Make</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 362" width="1200" height="362" role="img" aria-label="Toolkit">
+<defs>
+<linearGradient id="bgk" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#12122A"/><stop offset="100%" stop-color="#0B0B18"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="362" rx="18" fill="url(#bgk)" stroke="#26264A" stroke-width="1"/>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.7s" begin="0.00s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" dur="0.7s" begin="0.00s" values="0 18;0 0" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+<circle cx="40" cy="40" r="4" fill="#FF1A8C"/>
+<text x="52" y="44" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" font-weight="600" fill="#9A9AC0">WEB &amp; PRODUCT</text>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.15s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.15s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="40" y="55" width="69" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="74.5" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">React</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.20s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.20s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="119" y="55" width="84" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="161" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Next.js</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.25s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="213" y="55" width="84" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="255" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Node.js</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.30s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.30s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="307" y="55" width="106" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="360" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">TypeScript</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.35s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.35s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="423" y="55" width="106" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="476" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">JavaScript</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.40s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.40s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="539" y="55" width="62" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="570" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">HTML</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.45s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.45s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="611" y="55" width="54" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="638" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">CSS</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.50s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.50s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="675" y="55" width="91" height="30" rx="15" fill="#181835" stroke="#FF1A8C" stroke-width="1" stroke-opacity="0.5"/>
+<text x="720.5" y="74" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Tailwind</text>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.7s" begin="0.18s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" dur="0.7s" begin="0.18s" values="0 18;0 0" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+<circle cx="40" cy="118" r="4" fill="#A93AFF"/>
+<text x="52" y="122" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" font-weight="600" fill="#9A9AC0">SYSTEMS &amp; CORE</text>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.33s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.33s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="40" y="133" width="62" height="30" rx="15" fill="#181835" stroke="#A93AFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="71" y="152" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Rust</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.38s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.38s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="112" y="133" width="62" height="30" rx="15" fill="#181835" stroke="#A93AFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="143" y="152" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">WASM</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.43s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.43s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="184" y="133" width="69" height="30" rx="15" fill="#181835" stroke="#A93AFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="218.5" y="152" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Linux</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.48s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.48s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="263" y="133" width="76" height="30" rx="15" fill="#181835" stroke="#A93AFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="301" y="152" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Docker</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.53s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.53s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="349" y="133" width="76" height="30" rx="15" fill="#181835" stroke="#A93AFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="387" y="152" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">libp2p</text>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.7s" begin="0.36s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" dur="0.7s" begin="0.36s" values="0 18;0 0" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+<circle cx="40" cy="196" r="4" fill="#FF6B1A"/>
+<text x="52" y="200" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" font-weight="600" fill="#9A9AC0">BACKEND &amp; DATA</text>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.51s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.51s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="40" y="211" width="76" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="78" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">NestJS</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.56s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.56s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="126" y="211" width="76" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="164" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Prisma</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.61s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.61s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="212" y="211" width="106" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="265" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">PostgreSQL</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.66s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.66s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="328" y="211" width="69" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="362.5" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Redis</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.71s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.71s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="407" y="211" width="84" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="449" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Grafana</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.76s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.76s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="501" y="211" width="69" height="30" rx="15" fill="#181835" stroke="#FF6B1A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="535.5" y="230" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Nginx</text>
+</g>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.7s" begin="0.54s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" dur="0.7s" begin="0.54s" values="0 18;0 0" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+<circle cx="40" cy="274" r="4" fill="#FFD11A"/>
+<text x="52" y="278" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2" font-weight="600" fill="#9A9AC0">DESIGN &amp; AUTOMATION</text>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.69s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.69s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="40" y="289" width="69" height="30" rx="15" fill="#181835" stroke="#FFD11A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="74.5" y="308" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Figma</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.74s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.74s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="119" y="289" width="76" height="30" rx="15" fill="#181835" stroke="#FFD11A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="157" y="308" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Framer</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.79s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.79s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="205" y="289" width="84" height="30" rx="15" fill="#181835" stroke="#FFD11A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="247" y="308" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Webflow</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.84s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.84s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="299" y="289" width="54" height="30" rx="15" fill="#181835" stroke="#FFD11A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="326" y="308" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">n8n</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="0.5s" begin="0.89s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" additive="sum" dur="0.45s" begin="0.89s" values="0.8;1" fill="freeze" calcMode="spline" keySplines="0.2 1.4 0.4 1" keyTimes="0;1"/>
+<rect x="363" y="289" width="62" height="30" rx="15" fill="#181835" stroke="#FFD11A" stroke-width="1" stroke-opacity="0.5"/>
+<text x="394" y="308" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#E8E8F5">Make</text>
+</g>
+</g>
 </svg>
