@@ -1,50 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Zakaria Jeddi - Bellovac'IA">
 <defs>
-<radialGradient id="bg" cx="42%" cy="45%" r="85%">
-<stop offset="0%" stop-color="#181830"/>
-<stop offset="55%" stop-color="#0F0F1F"/>
-<stop offset="100%" stop-color="#08080F"/>
-</radialGradient>
-<linearGradient id="chrome" x1="0%" y1="0%" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
-<stop offset="0%" stop-color="#FF1A8C"/>
-<stop offset="30%" stop-color="#A93AFF"/>
-<stop offset="62%" stop-color="#FF6B1A"/>
-<stop offset="88%" stop-color="#FFD11A"/>
-<stop offset="100%" stop-color="#FF1A8C"/>
-<animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="9s" repeatCount="indefinite"/>
-</linearGradient>
-<radialGradient id="sphere" cx="38%" cy="32%" r="75%">
-<stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
-<stop offset="22%" stop-color="#FFD11A" stop-opacity="0.55"/>
-<stop offset="55%" stop-color="#A93AFF" stop-opacity="0.85"/>
-<stop offset="100%" stop-color="#0F0F1F" stop-opacity="1"/>
-</radialGradient>
-<radialGradient id="spec" cx="50%" cy="50%" r="50%">
-<stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
-<stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-</radialGradient>
-<filter id="liquid" x="-30%" y="-30%" width="160%" height="160%">
-<feTurbulence type="fractalNoise" baseFrequency="0.012 0.016" numOctaves="3" seed="7" result="noise">
-<animate attributeName="baseFrequency" dur="18s" values="0.012 0.016;0.02 0.01;0.012 0.016" repeatCount="indefinite"/>
-</feTurbulence>
-<feDisplacementMap in="SourceGraphic" in2="noise" scale="26" xChannelSelector="R" yChannelSelector="G"/>
-</filter>
-<filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-<feGaussianBlur stdDeviation="9" result="b"/>
-<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-<filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-<feGaussianBlur stdDeviation="55"/>
-</filter>
-<linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#ffffff"/>
-<stop offset="100%" stop-color="#FFD8EC"/>
-</linearGradient>
-<linearGradient id="ug" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#FF1A8C"/>
-<stop offset="50%" stop-color="#A93AFF"/>
-<stop offset="100%" stop-color="#FF6B1A"/>
-</linearGradient>
+<radialGradient id="bg" cx="42%" cy="45%" r="85%"><stop offset="0%" stop-color="#181830"/><stop offset="55%" stop-color="#0F0F1F"/><stop offset="100%" stop-color="#08080F"/></radialGradient>
+<linearGradient id="chrome" x1="0%" y1="0%" x2="100%" y2="100%" gradientUnits="objectBoundingBox"><stop offset="0%" stop-color="#FF1A8C"/><stop offset="30%" stop-color="#A93AFF"/><stop offset="62%" stop-color="#FF6B1A"/><stop offset="88%" stop-color="#FFD11A"/><stop offset="100%" stop-color="#FF1A8C"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="9s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="sphere" cx="38%" cy="32%" r="75%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/><stop offset="22%" stop-color="#FFD11A" stop-opacity="0.55"/><stop offset="55%" stop-color="#A93AFF" stop-opacity="0.85"/><stop offset="100%" stop-color="#0F0F1F" stop-opacity="1"/></radialGradient>
+<radialGradient id="spec" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<filter id="liquid" x="-30%" y="-30%" width="160%" height="160%"><feTurbulence type="fractalNoise" baseFrequency="0.012 0.016" numOctaves="3" seed="7" result="noise"><animate attributeName="baseFrequency" dur="18s" values="0.012 0.016;0.02 0.01;0.012 0.016" repeatCount="indefinite"/></feTurbulence><feDisplacementMap in="SourceGraphic" in2="noise" scale="26" xChannelSelector="R" yChannelSelector="G"/></filter>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#FFD8EC"/></linearGradient>
+<linearGradient id="ug" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF1A8C"/><stop offset="50%" stop-color="#A93AFF"/><stop offset="100%" stop-color="#FF6B1A"/></linearGradient>
 <clipPath id="sphereClip"><circle cx="930" cy="190" r="135"/></clipPath>
 </defs>
 <rect width="1200" height="380" fill="url(#bg)"/>
@@ -100,21 +64,15 @@
 <g>
 <g transform="rotate(0 930 190)">
 <ellipse cx="930" cy="190" rx="175" ry="73.5" fill="none" stroke="#FF1A8C" stroke-width="1" opacity="0.18"/>
-<circle r="3.5" fill="#FF1A8C" filter="url(#glow)">
-<animateMotion dur="22s" repeatCount="indefinite" path="M 755 190 a 175 73.5 0 1 0 350 0 a 175 73.5 0 1 0 -350 0"/>
-</circle>
+<circle r="3.5" fill="#FF1A8C" filter="url(#glow)"><animateMotion dur="22s" repeatCount="indefinite" path="M 755 190 a 175 73.5 0 1 0 350 0 a 175 73.5 0 1 0 -350 0"/></circle>
 </g>
 <g transform="rotate(120 930 190)">
 <ellipse cx="930" cy="190" rx="210" ry="88.2" fill="none" stroke="#A93AFF" stroke-width="1" opacity="0.18"/>
-<circle r="3.5" fill="#A93AFF" filter="url(#glow)">
-<animateMotion dur="30s" repeatCount="indefinite" path="M 720 190 a 210 88.2 0 1 0 420 0 a 210 88.2 0 1 0 -420 0"/>
-</circle>
+<circle r="3.5" fill="#A93AFF" filter="url(#glow)"><animateMotion dur="30s" repeatCount="indefinite" path="M 720 190 a 210 88.2 0 1 0 420 0 a 210 88.2 0 1 0 -420 0"/></circle>
 </g>
 <g transform="rotate(240 930 190)">
 <ellipse cx="930" cy="190" rx="150" ry="63" fill="none" stroke="#FFD11A" stroke-width="1" opacity="0.18"/>
-<circle r="3.5" fill="#FFD11A" filter="url(#glow)">
-<animateMotion dur="18s" repeatCount="indefinite" path="M 780 190 a 150 63 0 1 0 300 0 a 150 63 0 1 0 -300 0"/>
-</circle>
+<circle r="3.5" fill="#FFD11A" filter="url(#glow)"><animateMotion dur="18s" repeatCount="indefinite" path="M 780 190 a 150 63 0 1 0 300 0 a 150 63 0 1 0 -300 0"/></circle>
 </g>
 </g>
 <g filter="url(#glow)">
@@ -122,19 +80,16 @@
 <circle cx="930" cy="190" r="135" fill="url(#chrome)" filter="url(#liquid)"/>
 <circle cx="930" cy="190" r="135" fill="url(#sphere)" opacity="0.75"/>
 <circle cx="930" cy="190" r="134" fill="none" stroke="url(#chrome)" stroke-width="2.5" opacity="0.9"/>
-<ellipse rx="42" ry="28" fill="url(#spec)" clip-path="url(#sphereClip)">
-<animate attributeName="cx" dur="6s" values="890;960;890" repeatCount="indefinite"/>
-<animate attributeName="cy" dur="6s" values="150;175;150" repeatCount="indefinite"/>
-</ellipse>
+<ellipse rx="42" ry="28" fill="url(#spec)" clip-path="url(#sphereClip)"><animate attributeName="cx" dur="6s" values="890;960;890" repeatCount="indefinite"/><animate attributeName="cy" dur="6s" values="150;175;150" repeatCount="indefinite"/></ellipse>
 <circle r="8" fill="#ffffff" clip-path="url(#sphereClip)"><animate attributeName="cx" dur="5s" values="895;900;895" repeatCount="indefinite"/><animate attributeName="cy" dur="5s" values="148;152;148" repeatCount="indefinite"/><animate attributeName="opacity" dur="5s" values="0.9;0.4;0.9" repeatCount="indefinite"/></circle>
 </g>
 <g font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif">
-<text x="70" y="120" font-size="18" letter-spacing="6" fill="#FF1A8C" font-weight="600">BONJOUR, JE SUIS<animate attributeName="opacity" dur="1.2s" values="0;1" fill="freeze"/></text>
-<text x="68" y="195" font-size="76" font-weight="800" fill="url(#tg)" letter-spacing="-1">Zakaria Jeddi<animate attributeName="opacity" dur="1.4s" begin="0.2s" values="0;1" fill="freeze"/></text>
-<rect x="70" y="212" height="5" rx="2.5" fill="url(#ug)"><animate attributeName="width" dur="1.1s" begin="0.7s" values="0;470" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
-<text x="70" y="265" font-size="26" font-weight="600" fill="#EDEDF7">
-<tspan fill="#A93AFF">Full-Stack</tspan> &amp; <tspan fill="#FF6B1A">AI</tspan> Developer<animate attributeName="opacity" dur="1.4s" begin="0.9s" values="0;1" fill="freeze"/></text>
-<text x="70" y="305" font-size="16" letter-spacing="3" fill="#8A8AA8" font-weight="500">BELLOVAC'IA · AGENCE WEB × IA · MAROC &amp; FRANCE<animate attributeName="opacity" dur="1.6s" begin="1.1s" values="0;1" fill="freeze"/></text>
+<g><animateTransform attributeName="transform" type="translate" dur="0.9s" values="-30 0;0 0" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+<text x="70" y="180" font-size="78" font-weight="800" fill="url(#tg)" letter-spacing="-1">Zakaria Jeddi<animate attributeName="opacity" dur="1s" values="0;1" fill="freeze"/></text>
+</g>
+<rect x="70" y="198" height="5" rx="2.5" fill="url(#ug)"><animate attributeName="width" dur="1.1s" begin="0.5s" values="0;480" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="70" y="252" font-size="27" font-weight="600" fill="#EDEDF7"><tspan fill="#A93AFF">Full-Stack</tspan> &amp; <tspan fill="#FF6B1A">AI</tspan> Developer<animate attributeName="opacity" dur="1.2s" begin="0.7s" values="0;1" fill="freeze"/></text>
+<text x="70" y="294" font-size="16" letter-spacing="3" fill="#8A8AA8" font-weight="500">BELLOVAC'IA · AGENCE WEB × IA · MAROC &amp; FRANCE<animate attributeName="opacity" dur="1.4s" begin="0.95s" values="0;1" fill="freeze"/></text>
 </g>
 <rect x="0" y="0" width="1200" height="3" fill="#FFD11A" opacity="0.12"><animate attributeName="y" dur="5s" values="-10;380;-10" repeatCount="indefinite"/></rect>
 </svg>
